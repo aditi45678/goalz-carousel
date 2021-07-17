@@ -534,7 +534,7 @@ margin-top: 10px;
 }
  .owl-item .al1,.al2,.al3,.al4{
     height: auto !important;
-    width: 70% !important;
+    width:auto !important;
     margin: 20px !important;
 }
 .arrival-list.owl-carousel .owl-item img {
